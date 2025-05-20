@@ -23,6 +23,7 @@ Random move generation for the computer
 Score tracking (optional, if implemented)
 
 Replay option after each round.
+![RPS](rps.png)
 
 
 
