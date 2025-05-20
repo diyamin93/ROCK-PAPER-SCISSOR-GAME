@@ -15,6 +15,8 @@ The computer randomly selects its move.
 
 The winner is determined and the result is printed.
 
+![RPS](https://github.com/user-attachments/assets/03d9a395-6be4-415d-bccb-747b22ca4121)
+
 🧠 Features
 Simple command-line interface
 
@@ -23,7 +25,7 @@ Random move generation for the computer
 Score tracking (optional, if implemented)
 
 Replay option after each round.
-![RPS](rps.png)
+
 
 
 
